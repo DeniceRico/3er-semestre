@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1699150853 source:c:\users\pc\desktop\programacion\universidad\herencia\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1699148797 c:\users\pc\desktop\programacion\universidad\herencia\animal.h
+	"SerVivo.h"
+	<iostream>
+
+1699149963 source:c:\users\pc\desktop\programacion\universidad\herencia\gato.cpp
+	"Gato.h"
+
+1699148967 c:\users\pc\desktop\programacion\universidad\herencia\gato.h
+	"SerVivo.h"
+	"Animal.h"
+	<iostream>
+
+1699150962 source:c:\users\pc\desktop\programacion\universidad\herencia\main.cpp
+	<iostream>
+	"SerVivo.h"
+	"Animal.h"
+	"Gato.h"
+
+1699151045 source:c:\users\pc\desktop\programacion\universidad\herencia\servivo.cpp
+	"SerVivo.h"
+	<iostream>
+
+1699150093 c:\users\pc\desktop\programacion\universidad\herencia\servivo.h
+

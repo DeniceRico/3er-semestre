@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697679612 source:c:\users\pc\desktop\programacion\universidad\estudio\calculator.cpp
+	"Calculator.h"
+
+1697679612 c:\users\pc\desktop\programacion\universidad\estudio\calculator.h
+
+1697679585 source:c:\users\pc\desktop\programacion\universidad\estudio\main.cpp
+	<iostream>
+	"Calculator.h"
+

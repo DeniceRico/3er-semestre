@@ -1,0 +1,112 @@
+# depslib dependency file v1.0
+1699402903 source:c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\conejo.cpp
+	"Conejo.h"
+	<iostream>
+
+1699403272 c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\conejo.h
+	"Animal.h"
+	<iostream>
+
+1699402903 source:c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\gato.cpp
+	"Gato.h"
+	<iostream>
+
+1699403291 c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\gato.h
+	"Animal.h"
+	<iostream>
+
+1699403853 source:c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\main.cpp
+	<iostream>
+	"Perro.h"
+	"Gato.h"
+	"Conejo.h"
+
+1699403744 source:c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\perro.cpp
+	"Perro.h"
+	<iostream>
+
+1699403744 c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\perro.h
+	"Animal.h"
+	<iostream>
+
+1699402903 source:c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1699402909 c:\users\usuario\desktop\prog 05-portillo herrera ulises shalom\prog 05_herencia diamante\familia\animal.h
+	<iostream>
+
+1699504480 source:f:\familia\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1699504480 f:\familia\animal.h
+	<iostream>
+
+1699497976 source:f:\familia\conejo.cpp
+	"Conejo.h"
+	<iostream>
+
+1699497974 f:\familia\conejo.h
+	"Animal.h"
+	<iostream>
+
+1699498178 source:f:\familia\gato.cpp
+	"Gato.h"
+	<iostream>
+
+1699498178 f:\familia\gato.h
+	"Animal.h"
+	<iostream>
+
+1699504540 source:f:\familia\main.cpp
+	<iostream>
+	"Perro.h"
+	"Gato.h"
+	"Conejo.h"
+
+1699501576 f:\familia\perro.h
+	"Animal.h"
+	<iostream>
+
+1699501576 source:f:\familia\perro.cpp
+	"Perro.h"
+	<iostream>
+
+1699504480 source:e:\familia\animal.cpp
+	"Animal.h"
+	<iostream>
+
+1699572094 e:\familia\animal.h
+	<iostream>
+
+1699497976 source:e:\familia\conejo.cpp
+	"Conejo.h"
+	<iostream>
+
+1699572094 e:\familia\conejo.h
+	"Animal.h"
+	<iostream>
+
+1699572094 source:e:\familia\gato.cpp
+	"Gato.h"
+	<iostream>
+
+1699572094 e:\familia\gato.h
+	"Animal.h"
+	<iostream>
+
+1699572230 source:e:\familia\main.cpp
+	<iostream>
+	"Perro.h"
+	"Gato.h"
+	"Conejo.h"
+
+1699572094 e:\familia\perro.h
+	"Animal.h"
+	<iostream>
+
+1699572010 source:e:\familia\perro.cpp
+	"Perro.h"
+	<iostream>
+

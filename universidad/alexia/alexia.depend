@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\pc\desktop\programacion\universidad\alexia\main.cpp
+	<iostream>
+
+1699237719 source:c:\users\pc\downloads\estudiante.cpp
+	"Estudiante.h"
+	"Persona.h"
+	"Persona.cpp"
+	<iostream>
+
+1699238029 c:\users\pc\downloads\estudiante.h
+	"Persona.h"
+	<iostream>
+
+1699238181 c:\users\pc\downloads\persona.h
+	<iostream>
+
+1699237035 source:c:\users\pc\downloads\ingeniero.cpp
+	"Ingeniero.h"
+	"Estudiante.h"
+
+1699236862 c:\users\pc\downloads\ingeniero.h
+	"Persona.h"
+	"Estudiante.h"
+	<iostream>
+
+1699238312 source:c:\users\pc\downloads\main herencia lineal.cpp
+	<iostream>
+	"Persona.h"
+	"Ingeniero.h"
+	"Estudiante.h"
+
+1699237971 source:c:\users\pc\downloads\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1699237971 c:\users\pc\downloads\persona.cpp
+	"Persona.h"
+	<iostream>
+
+1699237035 c:\users\pc\downloads\ingeniero.cpp
+	"Ingeniero.h"
+	"Estudiante.h"
+
