@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\usuario\desktop\dinis\dinisowo\main.cpp
+	<iostream>
+
+1695265372 source:f:\dinisowo\main.cpp
+	<iostream>
+	"doctor.h"
+	"paciente.h"
+	"clinica.h"
+	"clinica.cpp"
+
+1695258458 source:f:\dinisowo\doctor.cpp
+	"doctor.h"
+	<iostream>
+
+1695255976 f:\dinisowo\doctor.h
+	<iostream>
+
+1695258442 source:f:\dinisowo\paciente.cpp
+	"paciente.h"
+
+1695257056 f:\dinisowo\paciente.h
+	<iostream>
+
+1695264706 f:\dinisowo\clinica.h
+	"doctor.h"
+	"paciente.h"
+
+1695265304 f:\dinisowo\clinica.cpp
+	"clinica.h"
+	"doctor.h"
+
+1695258458 source:f:\yopi\dinisowo\doctor.cpp
+	"doctor.h"
+	<iostream>
+
+1695255976 f:\yopi\dinisowo\doctor.h
+	<iostream>
+
+1695265372 source:f:\yopi\dinisowo\main.cpp
+	<iostream>
+	"doctor.h"
+	"paciente.h"
+	"clinica.h"
+	"clinica.cpp"
+
+1695257056 f:\yopi\dinisowo\paciente.h
+	<iostream>
+
+1695264706 f:\yopi\dinisowo\clinica.h
+	"doctor.h"
+	"paciente.h"
+
+1695265304 f:\yopi\dinisowo\clinica.cpp
+	"clinica.h"
+	"doctor.h"
+
+1695258442 source:f:\yopi\dinisowo\paciente.cpp
+	"paciente.h"
+

@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1695944833 source:c:\users\usuario\desktop\para borrar\apuntadores2\main.cpp
+	<iostream>
+	"Rectangulo.h"
+	"Cuadrado.h"
+
+1695947032 c:\users\usuario\desktop\para borrar\apuntadores2\rectangulo.h
+	<iostream>
+
+1695947032 c:\users\usuario\desktop\para borrar\apuntadores2\cuadrado.h
+	<iostream>
+
+1695946842 source:c:\users\usuario\desktop\para borrar\apuntadores2\cuadrado.cpp
+	"Cuadrado.h"
+
+1695946878 source:c:\users\usuario\desktop\para borrar\apuntadores2\rectangulo.cpp
+	"Rectangulo.h"
+
+1695961128 source:f:\apuntadores2\cuadrado.cpp
+	"Cuadrado.h"
+
+1695961128 f:\apuntadores2\cuadrado.h
+	<iostream>
+
+1695960638 source:f:\apuntadores2\rectangulo.cpp
+	"Rectangulo.h"
+
+1695960638 f:\apuntadores2\rectangulo.h
+	<iostream>
+
+1695953844 source:f:\apuntadores2\main.cpp
+	<iostream>
+	"Rectangulo.h"
+	"Cuadrado.h"
+

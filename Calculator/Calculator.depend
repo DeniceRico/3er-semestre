@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1697589620 source:c:\users\usuario\desktop\para borrar\calculator\calculadora.cpp
+	"Calculadora.h"
+
+1697588782 c:\users\usuario\desktop\para borrar\calculator\calculadora.h
+
+1697605350 source:f:\calculator\main.cpp
+	<iostream>
+	"Calculadora.h"
+
+1697605466 f:\calculator\calculadora.h
+	<iostream>
+
+1697605472 source:f:\calculator\calculadora.cpp
+	"Calculadora.h"
+	<iostream>
+
