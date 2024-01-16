@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1693287386 source:c:\users\pc\desktop\programacion\universidad\universidad\main.cpp
+	<iostream>
+	"Universidad.h"
+	"Estudiante.h"
+	"Maestro.h"
+	"Universidad.cpp"
+	"Estudiante.cpp"
+	"Maestro.cpp"
+
+1693285035 c:\users\pc\desktop\programacion\universidad\universidad\universidad.h
+	<iostream>
+
+1693287867 c:\users\pc\desktop\programacion\universidad\universidad\estudiante.h
+
+1693285297 c:\users\pc\desktop\programacion\universidad\universidad\maestro.h
+
+1693286432 c:\users\pc\desktop\programacion\universidad\universidad\universidad.cpp
+	"Universidad.h"
+
+1693287781 c:\users\pc\desktop\programacion\universidad\universidad\estudiante.cpp
+	"Estudiante.h"
+
+1693286776 c:\users\pc\desktop\programacion\universidad\universidad\maestro.cpp
+	"Maestro.h"
+
+1693288220 source:e:\3clases\clases\main.cpp
+	<iostream>
+	"Universidad.h"
+	"Estudiante.h"
+	"Maestro.h"
+	"Universidad.cpp"
+	"Estudiante.cpp"
+	"Maestro.cpp"
+
+1693285036 e:\3clases\clases\universidad.h
+	<iostream>
+
+1693288264 e:\3clases\clases\estudiante.h
+
+1693285298 e:\3clases\clases\maestro.h
+
+1693286434 e:\3clases\clases\universidad.cpp
+	"Universidad.h"
+
+1693288352 e:\3clases\clases\estudiante.cpp
+	"Estudiante.h"
+
+1693286778 e:\3clases\clases\maestro.cpp
+	"Maestro.h"
+
